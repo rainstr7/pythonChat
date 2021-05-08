@@ -8,12 +8,12 @@ db = [
     {
         'name': 'Jack',
         'text': 'Hello',
-        'time': time.time()
+        'time': 0.1
     },
     {
         'name': 'Mary',
         'text': 'Jack',
-        'time': time.time()
+        'time': 0.2
     },
 ]
 
